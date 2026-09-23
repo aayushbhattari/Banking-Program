@@ -1,6 +1,6 @@
 🏦 Banking Program – C++
 
-A simple Banking Management System built using C++. This project is designed as a beginner-friendly console application that demonstrates fundamental C++ programming concepts through a real-world banking scenario.
+A simple Banking Management System built using C++. This project is a beginner-friendly console application that demonstrates fundamental C++ programming concepts through a real-world banking scenario.
 
 🚀 Features
 
@@ -34,7 +34,7 @@ Banking-Program/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/banking-program.git
+git clone <repository-url>
 
 2. Navigate to the project folder
 
@@ -78,9 +78,6 @@ This project helped me practice:
 👨‍💻 Author
 
 Aayush Bhattari
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://www.linkedin.com/in/aayush-bhattari-816b753a1/
 
 ---
 
